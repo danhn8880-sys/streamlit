@@ -1,19 +1,19 @@
-# Python bytecode (file rác tự sinh)
+
 __pycache__/
 *.py[cod]
 
-# Môi trường ảo (Rất quan trọng - không bao giờ đẩy thư mục này lên)
+
 venv/
 env/
 .env
 
-# Cấu hình VS Code cá nhân
+
 .vscode/
 
-# File dữ liệu tạm hoặc file Excel (nếu bạn không muốn công khai dữ liệu học sinh)
+
 *.xlsx
 *.csv
 
-# Conda
+
 .conda/
 conda-meta/
